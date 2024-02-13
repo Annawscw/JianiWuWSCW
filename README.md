@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋！！！！
+## My name is Jiani Wu.
+#### About me 
+##### I'm a high school student. I like drawing.I'm trying to make an anime by myself,but i just started. and I love anime!!! My favourite cartoonist are Miyazaki Hayao and Makoto Shinkai. They are Japanese cartoonist. so i really want to go to Akihabara of Tokoy. I play badminton outside school with my friends.
+#### Why I choose Digital Technology ?
+
 
 <!--
 **JianiWuWSCW/JianiWuWSCW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
