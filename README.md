@@ -3,9 +3,12 @@
 ### About me 
 ##### I'm a high school student. I like drawing. I'm trying to make an anime by myself, but I just started. and I love anime!!! My favorite cartoonists are Miyazaki Hayao and Makoto Shinkai. They are Japanese cartoonist. so I want to go to Akihabara of Tokoy. I play badminton outside school with my friends.
 ### Why did I choose Digital Technology?
-##### I'm interested in digital.I got Digital Technology classes last year for two terms. And I want to learn more about Digital.
-
-
+##### I'm interested in digital. I got Digital Technology classes last year for two terms. And I want to learn more about Digital.
+### Aspirations
+##### Pass all the exams I need to pass
+##### Watch all the anime
+##### Always happy, healthy, and rich
+![Alt tag]()
 
 
 <!--
