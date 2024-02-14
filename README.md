@@ -9,7 +9,7 @@
 ##### Watch all the anime
 ##### Always happy, healthy, and rich
 Image:
-![Alt tag](image.jpg)
+![Alt tag](微信图片_20240215041720.png)
 
 
 <!--
