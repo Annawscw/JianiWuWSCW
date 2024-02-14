@@ -1,5 +1,5 @@
 ### Hi there 👋！！！！
-## My name is Jiani Wu.
+# My name is Jiani Wu.
 ### About me 
 ##### I'm a high school student. I like drawing. I'm trying to make an anime by myself, but I just started. and I love anime!!! My favorite cartoonists are Miyazaki Hayao and Makoto Shinkai. They are Japanese cartoonist. so I want to go to Akihabara of Tokoy. I play badminton outside school with my friends.
 ### Why did I choose Digital Technology?
