@@ -8,7 +8,8 @@
 ##### Pass all the exams I need to pass
 ##### Watch all the anime
 ##### Always happy, healthy, and rich
-![Alt tag]()
+Image:
+![Alt tag](image.jpg)
 
 
 <!--
